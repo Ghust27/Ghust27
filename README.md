@@ -1,7 +1,7 @@
 <!-- Título -->
 <div id="user-content-toc">
   <ul align="center">
-    <li><h1 style="display: inline-block">Olá Mundo</h1></li>
+    <li><h1 style="display: inline-block">Olá Mundo!</h1></li>
   </ul>
 </div>
 
