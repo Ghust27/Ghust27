@@ -8,8 +8,6 @@
 <!-- Apresentação -->
 <p>
   Olá 👋, me chamo André, sou estudante de Análise e Desenvolvimento de Sistemas, meu foco é backend.
-  <br>
-  🔭 Estou em busca da minha primeira oportunidade de emprego na área.
 </p>
 
 <!-- Dropdown -->
@@ -18,7 +16,7 @@
 </details>
 
 <!-- Conteúdo adicional -->
-<p>💬 Tenho 23 anos e atualmente moro no Brasil. Tenho alguns projetos próprios que buscam trazer utilidades reais, com foco no desenvolvimento de APIs. Minha linguagem principal é Python, mas às vezes utilizo Node.js.</p>
+<p>💬 Atualmente moro no Brasil. Tenho alguns projetos próprios que buscam trazer utilidades reais, com foco no desenvolvimento de APIs. Minha stack principal é Python e Node.js.</p>
 
 <!-- GithubStats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Ghust27&show_icons=true&theme=dark" alt="Ghust27 GitHub stats" />
@@ -42,8 +40,6 @@
 <!-- Skills: Tools & Frameworks -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <h3 style="flex-basis: 100%;">Tools & Frameworks:</h3>
-  <img alt="HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/original.svg" style="margin: 5px; vertical-align: middle;">
-  <img alt="CSS" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/original.svg" style="margin: 5px; vertical-align: middle;">
   <img alt="Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="margin: 5px; vertical-align: middle; margin-top: 6px;">
   <img alt="Express.js" height="40" width="40" <img src="https://devicon-website.vercel.app/api/express/original.svg" style="margin: 5px; vertical-align: middle; margin-top: 6px;">
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 5px; vertical-align: middle;">
