@@ -16,7 +16,7 @@
 </details>
 
 <!-- Conteúdo adicional -->
-<p>💬 Atualmente moro no Brasil. Tenho alguns projetos próprios que buscam trazer utilidades reais, com foco no desenvolvimento de APIs. Minha stack principal é Python e Node.js.</p>
+<p>💬 Atualmente moro no Brasil. Tenho alguns projetos próprios que buscam trazer utilidades reais, com foco no desenvolvimento de APIs. Minha stack principal é Python e Typescript.</p>
 
 <!-- GithubStats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Ghust27&show_icons=true&theme=dark" alt="Ghust27 GitHub stats" />
